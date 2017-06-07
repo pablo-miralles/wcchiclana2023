@@ -1,9 +1,4 @@
-/* CSS personalizado de 2017.chiclana.wordcamp.org */
-/*
-Welcome to Custom CSS!
-
-To learn how this works, see http://wp.me/PEmnE-Bt
-*/
+/* CSS personalizado externo de 2017.chiclana.wordcamp.org */
 
 body, .site-description {
 	font-family: 'Roboto', sans-serif !important;
@@ -19,7 +14,7 @@ body {
 }
 
 body:before {
-	background: url('https://2016.prague.wordcamp.org/files/2015/12/left_panel_bg.jpg') top left repeat;
+	background: red;
 }
 
 body.custom-background {
