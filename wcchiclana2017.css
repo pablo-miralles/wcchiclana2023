@@ -4,15 +4,6 @@
     background: #981932;
 }
 
-/* AJUSTER GENERALES
-================== */
-a {
-	border: none !important;
-	text-decoration: underline;
-}
-.entry-content a, .entry-summary a, .page-content a, .comment-content a, .pingback .comment-body > a {
-    border-bottom: none;
-}
 /* CAJA AVISO 
 ================== */
 div.aviso {
