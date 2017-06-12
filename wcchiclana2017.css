@@ -7,7 +7,7 @@
 /* AJUSTER GENERALES
 ================== */
 a {
-	border: none;
+	border: none !important;
 	text-decoration: underline;
 }
 .entry-content a, .entry-summary a, .page-content a, .comment-content a, .pingback .comment-body > a {
