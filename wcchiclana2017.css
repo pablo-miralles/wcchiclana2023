@@ -28,7 +28,7 @@ div.importante {
 .comment-body > a {
 	color:#981932 !important; 
 	text-decoration: underline;
-	border-bottom:none;
+	border-bottom:none !important;
 }
 
 /* btn Acción 
