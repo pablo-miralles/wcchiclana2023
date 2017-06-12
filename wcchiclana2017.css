@@ -45,4 +45,5 @@ div.importante {
 .btn-accion a {
     color:#fff !important;
     text-decoration: none !important;
+	border-bottom:none !important;
 }
