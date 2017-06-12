@@ -20,6 +20,11 @@ div.importante {
     border: 1px solid chocolate;
 }
 
+.entry-content a {
+	color:#981932;
+	text-decoration: underline;
+}
+
 /* btn Acción 
 ================== */
 .btn-accion {
