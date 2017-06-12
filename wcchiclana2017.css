@@ -42,7 +42,7 @@ div.importante {
     margin: 0 auto;
 }
 
-.btn-accion a {
+a .btn-accion {
     color:#fff !important;
     text-decoration: none !important;
 	border-bottom:none !important;
