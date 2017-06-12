@@ -1,5 +1,14 @@
 /* CSS personalizado EXTERNO de 2017.chiclana.wordcamp.org */
 
+/* AJUSTES GENERALES 
+================== */
+
+.entry-content a, .entry-summary a, .page-content a, .comment-content a, .pingback .comment-body > a {
+	border-bottom: none;
+	color : #981932;
+	text-decoration: underline;
+}
+
 .main-navigation li {
     background: #981932;
 }
