@@ -4,6 +4,13 @@
     background: #981932;
 }
 
+/* AJUSTER GENERALES
+================== */
+a {
+	border: none;
+	text-decoration: underline;
+}
+
 /* CAJA AVISO 
 ================== */
 div.aviso {
