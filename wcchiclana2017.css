@@ -12,3 +12,11 @@ div.aviso {
    border: 2px solid antiquewhite;
 }
 
+/* CAJA IMPORTANTE
+================== *
+div.importante {
+    background: aliceblue;
+    padding: 2rem;
+    border: 1px solid chocolate;
+}
+
