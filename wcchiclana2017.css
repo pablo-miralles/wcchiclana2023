@@ -13,10 +13,25 @@ div.aviso {
 }
 
 /* CAJA IMPORTANTE
-================== *
+================== */
 div.importante {
     background: aliceblue;
     padding: 2rem;
     border: 1px solid chocolate;
 }
 
+/* btn Acción 
+================== */
+.btn-accion {
+    background: #981932;
+    text-align: center;
+    padding: 1rem 0.5rem;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.btn-accion a {
+    color:#fff;
+    text-decoration: none;
+}
