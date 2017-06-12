@@ -20,7 +20,12 @@ div.importante {
     border: 1px solid chocolate;
 }
 
-.entry-content a {
+.entry-content a,
+.entry-summary a,
+.page-content a,
+.comment-content a,
+.pingback
+.comment-body > a {
 	color:#981932 !important; 
 	text-decoration: underline;
 	border-bottom:none;
