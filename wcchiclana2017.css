@@ -23,6 +23,7 @@ div.importante {
 .entry-content a {
 	color:#981932 !important; 
 	text-decoration: underline;
+	border-bottom:none;
 }
 
 /* btn Acción 
