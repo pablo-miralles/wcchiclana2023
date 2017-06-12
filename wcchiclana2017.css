@@ -3,3 +3,12 @@
 .main-navigation li {
     background: #981932;
 }
+
+/* CAJA AVISO 
+================== */
+.aviso {
+   padding: 0.5rem 2rem;
+   background: papayawhip;
+   border: 2px solid antiquewhite;
+}
+
