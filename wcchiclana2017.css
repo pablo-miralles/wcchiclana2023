@@ -21,7 +21,7 @@ div.importante {
 }
 
 .entry-content a {
-	color:#981932;
+	color:#981932 !important; 
 	text-decoration: underline;
 }
 
@@ -37,6 +37,6 @@ div.importante {
 }
 
 .btn-accion a {
-    color:#fff;
-    text-decoration: none;
+    color:#fff !important;
+    text-decoration: none !important;
 }
