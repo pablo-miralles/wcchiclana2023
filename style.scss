@@ -18,29 +18,30 @@ Use it to make something cool, have fun, and share what you've learned with othe
 // # 01 Variables
 //--------------------------------------------------------------*/
 
-@import 'scss/01-variables/colors';
+@import 'scss/01-variables/01-colors';
 
 /*--------------------------------------------------------------
 # 02 Base
 --------------------------------------------------------------*/
 
-@import 'scss/02-base/html-elements';
+@import 'scss/02-base/01-html-elements';
 
 /*--------------------------------------------------------------
 # 03 Components
 --------------------------------------------------------------*/
 
-@import 'scss/03-components/site-header';
-@import 'scss/03-components/site-title';
+@import 'scss/03-components/01-site-header';
+@import 'scss/03-components/02-site-title';
+@import 'scss/03-components/03-entry-content';
 
 /*--------------------------------------------------------------
 # 04 Blocks
 --------------------------------------------------------------*/
 
-@import 'scss/04-blocks/wp-block-columns';
+@import 'scss/04-blocks/01-wp-block-columns';
 
 /*--------------------------------------------------------------
 # 05 Templates
 --------------------------------------------------------------*/
 
-@import 'scss/05-templates/front-page';
+@import 'scss/05-templates/01-front-page';
