@@ -26,6 +26,7 @@ input,
 select,
 textarea {
   color: #333;
+  font-family: "Noto Sans", sans-serif;
 }
 
 p,
