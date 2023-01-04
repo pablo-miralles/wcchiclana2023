@@ -23,6 +23,13 @@ body {
 /*--------------------------------------------------------------
 # 03 Components
 --------------------------------------------------------------*/
+@media screen and (max-width: 954px) {
+  .site-header {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+}
+
 .site-title {
   position: absolute;
   text-indent: -9999px;
