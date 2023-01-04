@@ -11,13 +11,13 @@ We have added all the CSS modifications into the `/scss/` folder. Subfolders are
 Variables used in the project.
 
 #### 02 Base
-CSS to style HTML tags if needed.
+CSS to style HTML tags.
 
 #### 03 Components
-CSS to style the theme's built-in components (header, sidebar, footer, post...)
+CSS to style the theme's built-in components (header, sidebar, footer, post, etc).
 
 #### 04 Blocks
-CSS to style Gutenberg blocks if needed
+CSS to style Gutenberg blocks.
 
 #### 05 Templates
-CSS to style page templates if needed
+CSS to style page templates.
