@@ -1,3 +1,15 @@
 body {
 	background-color: $wcc--body--background;
 }
+
+p,
+address,
+pre,
+hr,
+ul,
+ol,
+dl,
+dd,
+table {
+	margin-bottom: 1em;
+}
