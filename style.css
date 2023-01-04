@@ -63,6 +63,16 @@ table {
   }
 }
 
+.main-navigation .is-featured a {
+  background: #fff;
+  color: #000;
+  font-weight: 700;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 /*--------------------------------------------------------------
 # 04 Blocks
 --------------------------------------------------------------*/
