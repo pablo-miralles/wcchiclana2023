@@ -20,6 +20,14 @@ body {
   background-color: #f1f1f1;
 }
 
+body,
+button,
+input,
+select,
+textarea {
+  color: #22313f;
+}
+
 p,
 address,
 pre,

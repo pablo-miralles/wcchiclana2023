@@ -4,9 +4,11 @@ $wcc--color--custom-orange: #edba8e;
 $wcc--color--custom-red: #932f46;
 $wcc--color--custom-red--dark: #642836;
 $wcc--color--custom-pink: #ddb8bc;
-$wcc--color--custom-black: #3c3c3b;
+$wcc--color--custom-gray: #3c3c3b;
+$wcc--color--custom-black: #22313f;
+$wcc--color--custom-black-2: #333;
 
-$wcc--color--black: #22313f;
+$wcc--color--black: #000;
 $wcc--color--gray: #f1f1f1;
 $wcc--color--white: #fff;
 
@@ -14,12 +16,12 @@ $wcc--color--white: #fff;
 // ELEMENTS
 
 $wcc--body--background: $wcc--color--gray;
-$wcc--body--color: $wcc--color--black;
+$wcc--body--color: $wcc--color--custom-black;
 
-$wcc--heading--color: $wcc--color--black;
+$wcc--heading--color: $wcc--color--custom-black;
 
-$wcc--button--background: $wcc--color--custom-red;
-$wcc--button--background-hover: $wcc--color--custom-red--dark;
+$wcc--button--background: $wcc--color--black;
+$wcc--button--background-hover: $wcc--color--black;
 $wcc--button--color: $wcc--color--white;
 $wcc--button--color-hover: $wcc--color--white;
 

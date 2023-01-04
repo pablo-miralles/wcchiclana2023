@@ -2,6 +2,14 @@ body {
 	background-color: $wcc--body--background;
 }
 
+body, 
+button, 
+input, 
+select, 
+textarea {
+	color: $wcc--body--color;
+}
+
 p,
 address,
 pre,
