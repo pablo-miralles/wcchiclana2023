@@ -44,10 +44,16 @@ table {
 /*--------------------------------------------------------------
 # 03 Components
 --------------------------------------------------------------*/
-@media screen and (max-width: 954px) {
+@media screen and (max-width: 619px) {
   .site-header {
     padding-bottom: 1rem;
     padding-top: 1rem;
+  }
+}
+@media screen and (min-width: 620px) and (max-width: 954px) {
+  .site-header {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
   }
 }
 
@@ -73,6 +79,14 @@ table {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   text-transform: uppercase;
+}
+
+.sidebar {
+  background-color: #fff;
+}
+.sidebar .secondary.toggled-on {
+  box-shadow: none;
+  padding: 0;
 }
 
 /*--------------------------------------------------------------
