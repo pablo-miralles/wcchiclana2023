@@ -1,8 +1,13 @@
 .site-header {
 	
-	@media screen and (max-width: 954px) {
+	@media screen and (max-width: 619px) {
 		padding-bottom: 1rem;
 		padding-top: 1rem;
+	}
+
+	@media screen and ((min-width: 620px)) and (max-width: 954px) {
+		padding-bottom: 2rem;
+		padding-top: 2rem;
 	}
 
 }
