@@ -1,13 +1,28 @@
 .main-navigation {
 	text-align: center;
 	
-	.is-featured a {
-		background: $wcc--button--background;
-		color: $wcc--button--color;
+	.is-featured {
 		font-weight: 700;
 		padding-left: 0.5rem;
 		padding-right: 0.5rem;
 		text-transform: uppercase;
+	}
+	
+	.is-ticket a {
+		background: $wcc--button--background;
+		color: $wcc--button--color;
+	}
+
+	.is-volunteer a {
+		color: $wcc--color--custom-blue;
+	}
+
+	.is-speaker a {
+		color: $wcc--color--custom-pink;
+	}
+
+	.is-sponsor a {
+		color: $wcc--color--custom-yellow;
 	}
 
 }

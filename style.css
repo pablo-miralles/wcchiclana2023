@@ -65,13 +65,24 @@ table {
 .main-navigation {
   text-align: center;
 }
-.main-navigation .is-featured a {
-  background: #000;
-  color: #fff;
+.main-navigation .is-featured {
   font-weight: 700;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
   text-transform: uppercase;
+}
+.main-navigation .is-ticket a {
+  background: #000;
+  color: #fff;
+}
+.main-navigation .is-volunteer a {
+  color: #64bee6;
+}
+.main-navigation .is-speaker a {
+  color: #ddb8bc;
+}
+.main-navigation .is-sponsor a {
+  color: #fcc97a;
 }
 
 .sidebar {
