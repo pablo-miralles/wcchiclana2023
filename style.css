@@ -96,7 +96,11 @@ table {
 /*--------------------------------------------------------------
 # 04 Blocks
 --------------------------------------------------------------*/
-.wp-block-columns h2 {
+.wp-block-columns h2,
+.wp-block-columns h3,
+.wp-block-columns h4,
+.wp-block-columns h5,
+.wp-block-columns h6 {
   margin-top: 0;
 }
 
