@@ -99,6 +99,29 @@ table {
   padding: 0;
 }
 
+table.tix_tickets_table.tix-tickets-list {
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: auto;
+}
+
+table.tix_tickets_table.tix-tickets-list thead th {
+  white-space: nowrap;
+}
+
+table.tix_tickets_table.tix-tickets-list .tix-column-remaining {
+  display: none;
+}
+
+table.tix_tickets_table.tix-tickets-list .tix-column-remaining,
+table.tix_tickets_table.tix-tickets-list .tix-column-quantity,
+table.tix_tickets_table.tix-order-summary .tix-column-quantity,
+table.tix_tickets_table.tix-order-summary .tix-column-per-ticket,
+table.tix_tickets_table.tix-tickets-list .tix-column-price,
+table.tix_tickets_table.tix-order-summary .tix-column-price {
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # 04 Blocks
 --------------------------------------------------------------*/
