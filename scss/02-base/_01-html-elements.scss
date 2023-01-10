@@ -22,3 +22,12 @@ dd,
 table {
 	margin-bottom: 1em;
 }
+
+@media screen and (min-width: 87.6875em) {
+
+	body:before {
+		width: -webkit-calc(46% - 289px);
+		width: calc(46% - 289px);
+	}
+
+}
