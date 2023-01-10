@@ -107,6 +107,12 @@ table {
 /*--------------------------------------------------------------
 # 05 Templates
 --------------------------------------------------------------*/
+@media screen and (min-width: 955px) {
+  .site {
+    margin: 0 auto;
+    max-width: 1600px;
+  }
+}
 .home .entry-title,
 #post-1885 .entry-title {
   position: absolute;
